@@ -5,10 +5,10 @@ Hope we can improve it together, HAVE FUN!
 Message from deepfakes:
 
 **Whole project with training images and trained model (~300MB):**  
-anonfile.com/p7w3m0d5be/face-swap.zip or [click here to download](anonfile.com/p7w3m0d5be/face-swap.zip)
+anonfile.com/p7w3m0d5be/face-swap.zip or [click here to download](https://anonfile.com/p7w3m0d5be/face-swap.zip)
 
 **Source code only:**  
-anonfile.com/f6wbmfd2b2/face-swap-code.zip or [click here to download](anonfile.com/f6wbmfd2b2/face-swap-code.zip)
+anonfile.com/f6wbmfd2b2/face-swap-code.zip or [click here to download](https://anonfile.com/f6wbmfd2b2/face-swap-code.zip)
 
 **Requirements:**
 
